@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    background-color: #faebd7;
+    border: 1px solid #ccc;
+}
+
+body {
+    width: 980px;
+}
+
+.logo_area {
+    float: left;
+}
+
+.searchbar_area {
+    text-align: center;
+}
+
+.post_item {
+    display: inline flex;
+}
