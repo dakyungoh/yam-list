@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    background-color: #faebd7;
     border: 1px solid #ccc;
 }
 
@@ -26,4 +27,16 @@ body {
     height: 100px;
     margin: 10px 13px;
     text-align: center;
+}
+
+.logo_area {
+    float: left;
+}
+
+.searchbar_area {
+    text-align: center;
+}
+
+.post_item {
+    display: inline flex;
 }
