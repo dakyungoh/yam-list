@@ -6,6 +6,26 @@
 
 body {
     width: 980px;
+    margin: auto;
+}
+.header__search-bar-wrapper {
+    text-align: center;
+}
+
+.header__search {
+    display: inline-block;
+}
+
+.post-list {
+    width: 100%;
+}
+
+.post-item {
+    display: inline-block;
+    width: 30%;
+    height: 100px;
+    margin: 10px 13px;
+    text-align: center;
 }
 
 .logo_area {
